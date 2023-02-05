@@ -14,3 +14,9 @@ with col2:
     This website as portfolio as a journal of learning python.
     """
     st.info(content)
+
+content_app = """
+Below you can find some of the apps I have built in Python. Feel free to contact me
+
+"""
+st.write(content_app)
